@@ -22,3 +22,9 @@ CS  |IO17
 [TTGO-TS Pinout](https://github.com/LilyGO/TTGO-TS/blob/master/Image/T10_V1.4.jpg)
 
 [Video](https://www.youtube.com/watch?v=XfCYlbe2Oko)
+
+[Font converter](https://github.com/littlevgl/lv_utils)
+[Online Font converter](https://littlevgl.com/ttf-font-to-c-array)
+
+16 pixels height, 1 bit-per-pixel.
+I use this Simsun.ttc for building Chinese characters.
